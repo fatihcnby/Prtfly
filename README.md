@@ -22,6 +22,7 @@ Framer Motion
 JavaScript (ES6+)
 
 <h2>Screenshots</h2>
+
 ![](1.gif)
 
 <h2>View Live Site</h2>
